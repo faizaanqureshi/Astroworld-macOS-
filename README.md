@@ -1,5 +1,5 @@
 # Astroworld
-An application based around Hip-Hop artist Travis Scott. Made using Processing Java.
+An application based around Hip-Hop artist Travis Scott. Made using Processing Java for macOS.
 
 For WINDOWS go to [WINDOWS Repository](https://github.com/qfaizaan/Astroworld)
 
